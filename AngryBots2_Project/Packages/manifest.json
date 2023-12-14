@@ -48,6 +48,11 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0"
+    "com.unity.modules.xr": "1.0.0",
+    "com.unity.ext.flatsharp": "file:../../../lwxr-main/Packages/com.unity.ext.flatsharp",
+    "com.unity.polyspatial": "file:../../../lwxr-main/Packages/com.unity.polyspatial",
+    "com.unity.polyspatial.xr": "file:../../../lwxr-main/Packages/com.unity.polyspatial.xr",
+    "com.unity.polyspatial.visionos": "file:../../../lwxr-main/Packages/com.unity.polyspatial.visionos",
+    "com.unity.xr.visionos": "file:../../../lwxr-main/Packages/com.unity.xr.visionos"
   }
 }
